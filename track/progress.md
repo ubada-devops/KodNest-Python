@@ -8,8 +8,8 @@ Track daily learning progress, wins, and blockers here.
 
 | Day | Date | Topics Covered | Status | Notes |
 |-----|------|----------------|--------|-------|
-| 01  |      |                | ⬜ Pending | |
-| 02  |      |                | ⬜ Pending | |
+| 01  | 2026-08-02 | Hello World & Setup | ✅ Done | Completed hello.py |
+| 02  | 2026-08-03 | Basic Output & Data Types | ✅ Done | Solved 3 practice problems |
 | 03  |      |                | ⬜ Pending | |
 | 04  |      |                | ⬜ Pending | |
 | 05  |      |                | ⬜ Pending | |

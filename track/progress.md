@@ -13,6 +13,7 @@ Track daily learning progress, wins, and blockers here.
 | 03  | 2026-08-04 | Type Conversion & Input Operations | ✅ Done | Solved practice problems |
 | 04  | 2026-08-05 | Conditionals & Loops | ✅ Done | Solved 4 practice problems |
 | 05  | 2026-08-06 | Number Analyzer, Even Sum, Break/Continue, Student Marks | ✅ Done | Solved 5 practice problems |
+| 06  | 2026-08-07 | Lists, Tuples & Slicing | ✅ Done | Solved practice problems |
 
 ---
 

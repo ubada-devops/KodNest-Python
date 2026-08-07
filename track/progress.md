@@ -12,7 +12,7 @@ Track daily learning progress, wins, and blockers here.
 | 02  | 2026-08-03 | Basic Output & Data Types | ✅ Done | Solved 3 practice problems |
 | 03  | 2026-08-04 | Type Conversion & Input Operations | ✅ Done | Solved practice problems |
 | 04  | 2026-08-05 | Conditionals & Loops | ✅ Done | Solved 4 practice problems |
-| 05  |      |                | ⬜ Pending | |
+| 05  | 2026-08-06 | Number Analyzer, Even Sum, Break/Continue, Student Marks | ✅ Done | Solved 5 practice problems |
 
 ---
 
